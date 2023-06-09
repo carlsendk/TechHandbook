@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## About us 2
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
